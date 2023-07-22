@@ -11,4 +11,4 @@ Highly configurable UE5 menu template plugin
 
 # Examples:
 **Genshin**
-![Example Menu](examples/genshin_alt.png)
+![Example Menu](examples/genshin.png)
